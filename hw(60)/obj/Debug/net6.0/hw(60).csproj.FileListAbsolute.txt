@@ -1,0 +1,15 @@
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\bin\Debug\net6.0\hw(60).exe
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\bin\Debug\net6.0\hw(60).deps.json
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\bin\Debug\net6.0\hw(60).runtimeconfig.json
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\bin\Debug\net6.0\hw(60).dll
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\bin\Debug\net6.0\hw(60).pdb
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\obj\Debug\net6.0\hw(60).csproj.AssemblyReference.cache
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\obj\Debug\net6.0\hw(60).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\obj\Debug\net6.0\hw(60).AssemblyInfoInputs.cache
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\obj\Debug\net6.0\hw(60).AssemblyInfo.cs
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\obj\Debug\net6.0\hw(60).csproj.CoreCompileInputs.cache
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\obj\Debug\net6.0\hw(60).dll
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\obj\Debug\net6.0\refint\hw(60).dll
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\obj\Debug\net6.0\hw(60).pdb
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\obj\Debug\net6.0\hw(60).genruntimeconfig.cache
+C:\Users\Rassamaha\Desktop\HW8\hw(60)\obj\Debug\net6.0\ref\hw(60).dll
